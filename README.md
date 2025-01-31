@@ -8,7 +8,7 @@ Parsing HTML with BeautifulSoup to extract structured data.
 
 Storing results in a CSV file and analyzing them with pandas.
 
-Key Features:
+# Key Features:
 
 Automated scraping of multiple YouTube video pages.
 
@@ -16,11 +16,11 @@ Error handling for missing data fields.
 
 Integration with pandas for data manipulation and analysis.
 
-Challenges Faced:
+# Challenges Faced:
 
 WebDriver instability (e.g., WebDriverException due to browser crashes).
 
 Dynamic page elements requiring explicit waits and retries.
 
-Tools Used: Python, Selenium, BeautifulSoup, pandas, Chromedriver.
-Outcome: A dataset of video metadata for further analysis or insights into YouTube content trends.
+# Tools Used: Python, Selenium, BeautifulSoup, pandas, Chromedriver.
+# Outcome: A dataset of video metadata for further analysis or insights into YouTube content trends.
