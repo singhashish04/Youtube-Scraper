@@ -22,5 +22,7 @@ WebDriver instability (e.g., WebDriverException due to browser crashes).
 
 Dynamic page elements requiring explicit waits and retries.
 
-# Tools Used: Python, Selenium, BeautifulSoup, pandas, Chromedriver.
-# Outcome: A dataset of video metadata for further analysis or insights into YouTube content trends.
+# Tools Used:
+  Python, Selenium, BeautifulSoup, pandas, Chromedriver.
+# Outcome: 
+  A dataset of video metadata for further analysis or insights into YouTube content trends.
